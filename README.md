@@ -1,0 +1,2 @@
+# DI504_BuildingFootprint
+DI504_Project
